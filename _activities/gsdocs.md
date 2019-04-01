@@ -22,7 +22,7 @@ Some of the questions that we collectively ask are:
 
 To answer these questions, particle physicists build software to simulate and analyze what happens in particle physics detectors.
 
-Since 2011, CERN has participated in other Google initiatives such as Google Summer of Code (GSoC), first as a small organization (CERN-SFT) and later as an umbrella organization (CERN-HSF) to involve the high-energy physics community. Given the good results in the past under the GSoC program, CERN-HSF is eager to participate in this first edition of Season of Docs.
+Since 2011, CERN has participated in other Google initiatives such as Google Summer of Code (GSoC), first as a small organization (CERN-SFT) and later as an umbrella organization (CERN-HSF) to involve the high-energy physics community. Given the good results in the past under the GSoC program, CERN-HSF is eager to participate on this first edition of Season of Docs.
 
 
 ### Season of Docs 2019
